@@ -1,0 +1,60 @@
+.md .card{
+	box-shadow: none;
+}
+
+.md .card img{
+	max-height: 120px;
+}
+
+.page-content{
+	background-color: #9d7a77;
+}
+
+#app{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.md .navbar{
+	background-color: #735e5d;
+}
+
+.foto-menu{
+	justify-content: center;
+	align-items: center;
+}
+
+.md .image-responsive{
+	max-width: 100%;
+}
+
+.md #info-merengue{
+	color: #000;
+	background-color: white;
+}
+
+.md .texto{
+	border: none;
+}
+
+.item-title{
+	font-weight: 500;
+	font-size: 25px;
+}
+
+
+.center-block{
+	margin: 0 auto;
+	display:block;
+}
+
+.menu-titulo{
+	text-align: center;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.menu-texto{
+	text-align: center;
+	font-weight: 200;
+	font-size: 15px;
+}
